@@ -1,0 +1,9 @@
+Follow the following steps to run the "Real Time Soil Analysis and Crop Prediction" project :
+
+1) Install all the given setups.
+2) Run the WAMP server and under C drive - wamp64a - www - paste all the php files provided in the Code folder.
+3) Open MySQL Workbench and open the DIYdatabase file provided in the Code folder and Run all the queries sequentially in order to create tables.
+4) Open Unity - File - Open Project - browse for Unity Project Folder provided in the Code folder.
+5) Now, under Assets - Scenes - Double click on Login - and click on Play Button.
+6) The application will run.
+7) In Test Scenes, place the AR Marker in order to see the values through AR.
